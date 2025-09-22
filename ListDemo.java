@@ -11,6 +11,5 @@ public class ListDemo {
 
         List<String> newStudents = new ArrayList<> ();
         newStudents.add("Amit");
-        
     }
 }
